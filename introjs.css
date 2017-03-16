@@ -122,19 +122,19 @@ tr.introjs-showElement > th {
 }
 
 .introjs-arrow {
-  border: 5px solid white;
+  border: 8px solid white;
   content:'';
   position: absolute;
 }
 .introjs-arrow.top {
-  top: -10px;
+  top: -16px;
   border-top-color:transparent;
   border-right-color:transparent;
   border-bottom-color:white;
   border-left-color:transparent;
 }
 .introjs-arrow.top-right {
-  top: -10px;
+  top: -16px;
   right: 10px;
   border-top-color:transparent;
   border-right-color:transparent;
@@ -142,7 +142,7 @@ tr.introjs-showElement > th {
   border-left-color:transparent;
 }
 .introjs-arrow.top-middle {
-  top: -10px;
+  top: -16px;
   left: 50%;
   margin-left: -5px;
   border-top-color:transparent;
@@ -151,7 +151,7 @@ tr.introjs-showElement > th {
   border-left-color:transparent;
 }
 .introjs-arrow.right {
-  right: -10px;
+  right: -16px;
   top: 10px;
   border-top-color:transparent;
   border-right-color:transparent;
@@ -160,21 +160,21 @@ tr.introjs-showElement > th {
 }
 .introjs-arrow.right-bottom {
   bottom:10px;
-  right: -10px;
+  right: -16px;
   border-top-color:transparent;
   border-right-color:transparent;
   border-bottom-color:transparent;
   border-left-color:white;
 }
 .introjs-arrow.bottom {
-  bottom: -10px;
+  bottom: -16px;
   border-top-color:white;
   border-right-color:transparent;
   border-bottom-color:transparent;
   border-left-color:transparent;
 }
 .introjs-arrow.left {
-  left: -10px;
+  left: -16px;
   top: 10px;
   border-top-color:transparent;
   border-right-color:white;
@@ -182,7 +182,7 @@ tr.introjs-showElement > th {
   border-left-color:transparent;
 }
 .introjs-arrow.left-bottom {
-  left: -10px;
+  left: -16px;
   bottom:10px;
   border-top-color:transparent;
   border-right-color:white;
